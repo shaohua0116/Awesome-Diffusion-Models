@@ -4774,6 +4774,11 @@ NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee
 
 ## Reinforcement Learning
 
+**Diffusion Model-Augmented Behavioral Cloning** \
+*Hsiang-Chun Wang, Shang-Fu Chen, Shao-Hua Sun* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.13335)] \
+26 Feb 2023
+
 **To the Noise and Back: Diffusion for Shared Autonomy** \
 *Takuma Yoneda, Luzhe Sun, Bradly Stadie, Ge Yang, Matthew Walter* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.12244)] [[Github](https://diffusion-for-shared-autonomy.github.io/)] \
